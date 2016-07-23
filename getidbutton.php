@@ -1,5 +1,5 @@
 <html>
 
-<a href="check.php"><input type="submit" value="getid"></a>	    
+<a href="getdetails.php"><input type="submit" value="getid"></a>	    
             
 </html>
