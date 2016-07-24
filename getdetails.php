@@ -28,5 +28,5 @@ while($status!='COMPLETED')
 }
 
 
-header("Location:p2.php");
+header("Location:staticimage.php");
 ?>
